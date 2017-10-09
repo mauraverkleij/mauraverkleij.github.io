@@ -14,7 +14,7 @@ const data = {
             title: "Huig #18",
             content: "Het belang van uitproberen en grenzen verkennen tijdens de studie, aan de Rotterdamse academie van Bouwkunsten, vertaald naar een publicatie. Samen met drie medestudenten ontwierpen wij de 18e editie van HUIG. Een publicatie welke podium bied aan het werk van studenten en alumni.\nTijdens het ontwerp proces vormde het gebouw van de Rotterdamse academie van Bouwkunsten een uitgangspunt. We fotografeerden herkenbare elementen van het gebouw en verwerkten deze in het ontwerp. Op deze manier krijgt het iconische gebouw een plekje in HUIG.",
             image: {
-                src: root + "img/MauraVerkleij-Portfolio-huig.jpg",
+                src: root + "img/MauraVerkleij-Portfolio-huig1.jpg",
                 alt: "Grafisch boek ontwerp genaamd HUIG door Maura Verkleij voor de Rotterdamse academie van Bouwkunsten."
             },
             images: [
