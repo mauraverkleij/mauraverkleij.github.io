@@ -6,7 +6,7 @@ const data = {
         city: "Rotterdam",
         email: "info@mauraverkleij.nl",
         tel: "+31 6 52882663",
-        bio: "Lorem ipsu eiusmod tempor incididunt uion uit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        bio: "Onderzoek doen naar een bepaald onderwerp, het ontwerpen van een bijpassende identiteit en vervolgens de interactie aangaan met de doelgroep is mijn dagelijkse bezigheid. Graphic Design en Advertising is voor mij de ideale combinatie. Naast mijn studie flurt ik er op los met mijn bedrijfje FLURT waar ik ook de combinatie van concept ontwikkelen en een visuele identiteit ontwerpen op een humoristische manier combineer.",
     },
     projects: [
         {
@@ -14,7 +14,7 @@ const data = {
             title: "Huig #18",
             content: "Het belang van uitproberen en grenzen verkennen tijdens de studie, aan de Rotterdamse academie van Bouwkunsten, vertaald naar een publicatie. Samen met drie medestudenten ontwierpen wij de 18e editie van HUIG. Een publicatie welke podium bied aan het werk van studenten en alumni.\nTijdens het ontwerp proces vormde het gebouw van de Rotterdamse academie van Bouwkunsten een uitgangspunt. We fotografeerden herkenbare elementen van het gebouw en verwerkten deze in het ontwerp. Op deze manier krijgt het iconische gebouw een plekje in HUIG.",
             image: {
-                src: root + "img/MauraVerkleij-Portfolio-huig1.jpg",
+                src: root + "img/MauraVerkleij-Portfolio-huig.jpg",
                 alt: "Grafisch boek ontwerp genaamd HUIG door Maura Verkleij voor de Rotterdamse academie van Bouwkunsten."
             },
             images: [
