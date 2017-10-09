@@ -21,7 +21,7 @@ export default class About extends Component {
                 <div className="background-color"></div>
             </div>
             <div className="right">
-                <div className="project-container">
+                <div className="project-container about-container">
                     <div>
                         <h1>{data.info.name}</h1>
                         <h1>{data.info.city}</h1>
