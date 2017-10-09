@@ -92,9 +92,8 @@ a, a:visited, a:hover, a:active {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-color: yellow;
+  background-color: #fed104;
 }
-
 
 .outer {
   display: table;
@@ -111,7 +110,7 @@ a, a:visited, a:hover, a:active {
 .projects {
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
+  width: 100%;
 }
 
 .project-container {
@@ -138,7 +137,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .menu-yellow {
-  background-color: yellow !important;
+  background-color: #fed104 !important;
 }
 
 .menu {
