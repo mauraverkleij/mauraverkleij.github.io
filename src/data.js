@@ -12,9 +12,9 @@ const data = {
         {
             id: "huig",
             title: "Huig #18",
-            content: "Het belang van uitproberen en grenzen verkennen tijdens de studie, aan de Rotterdamse academie van Bouwkunsten, vertaald naar een publicatie. Samen met drie medestudenten ontwierpen wij de 18e editie van HUIG. Een publicatie welke podium bied aan het werk van studenten en alumni. \n Tijdens het ontwerp proces vormde het gebouw van de Rotterdamse academie van Bouwkunsten een uitgangspunt. We fotografeerden herkenbare elementen van het gebouw en verwerkten deze in het ontwerp. Op deze manier krijgt het iconische gebouw een plekje in HUIG.",
+            content: "Het belang van uitproberen en grenzen verkennen tijdens de studie, aan de Rotterdamse academie van Bouwkunsten, vertaald naar een publicatie. Samen met drie medestudenten ontwierpen wij de 18e editie van HUIG. Een publicatie welke podium bied aan het werk van studenten en alumni.\nTijdens het ontwerp proces vormde het gebouw van de Rotterdamse academie van Bouwkunsten een uitgangspunt. We fotografeerden herkenbare elementen van het gebouw en verwerkten deze in het ontwerp. Op deze manier krijgt het iconische gebouw een plekje in HUIG.",
             image: {
-                src: root + "img/MauraVerkleij-Portfolio-huig0.gif",
+                src: root + "img/MauraVerkleij-Portfolio-huig1.jpg",
                 alt: "Grafisch boek ontwerp genaamd HUIG door Maura Verkleij voor de Rotterdamse academie van Bouwkunsten."
             },
             images: [
@@ -80,6 +80,41 @@ const data = {
             ]
         },
         {
+            id: "FLURT",
+            title: "FLURT",
+            content: "In de trein, tijdens het uitgaan en op straat. Iedereen zit tegenwoordig op z’n telefoon. Daarom zijn we twee jaar geleden FLURT gestart. Met de welbekende openingszinnen proberen we op een simpele en humoristische manier de interactie terug te brengen. /n Toen het FLURT balletje ging rollen leerde ik alle ins en outs van het ondernemerschap.",
+            image: {
+                src: root + "img/Maura-Verkleij-Portfolio-FLURT0.jpg",
+                alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat."
+            },
+            images: [
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT0.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT1.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT2.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT3.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT4.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+                {
+                    src: root + "img/Maura-Verkleij-Portfolio-FLURT5.jpg",
+                    alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat.",
+                },
+            ]
+        },
+        {
             id: "seks-hihi",
             title: "Seks, hihi",
             content: "Het stimuleren van veilige seks begint bij goede voorlichting. ‘Seks, hihi’ brengt onze puberale reactie op seksuele voorlichting in beeld.\n Deze poster was een aantal maanden te vinden in de Affiche Gallerij & 3sec.gallery. In de periode rond wereld Aidsdag (1 december 2017) wordt mijn ontwerp verspreid als Boomerang ansichtkaart. Daarnaast zal ‘Seks, hihi’ begin 2018 gebruikt worden op de condoom verpakkingen die door de GGD Haaglanden verspreid gaan worden.",
@@ -138,9 +173,78 @@ const data = {
                 {
                     src: root + "img/Maura-Verkleij-Reeuwijkse-Ramen7.jpg",
                     alt: "Foto serie over de kneuterigheid van Reeuwijk"
-                }
+                },
             ]
-        }
+
+        },
+        {
+            id: "ode-aan-de-oma",
+            title: "Ode aan de oma",
+            content: "Voor alle grootmoeders gekenmerkt door eigenwijsheid.\n Welke zich velen malen jonger voelen dan de werkelijke leeftijd. \n Onze oma’s pakten voor ons de borduurset op en lieten hun naaimachine snorren. En als we kwamen logeren speelden ze eindeloos spelletjes. Vier op een rij, kwartetten, mens erger je niet… en dus ook niet als je verloor. Zo is het leven vinden zij. \n Over mens erger je niet gesproken. Ze mogen dan oud zijn, maar ze laten zich nog lang niet eronder krijgen. Toegegeven: de dagelijkse wandelingen worden steeds korter omdat de benen niet meer willen. Maar, als de geranium tijd daar is. Hoe maken we daar dan een feestje van? Lisanne en ik stoken het raamscherm in een nieuw jasje. ",
+            image: {
+                src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma0.jpg",
+                alt: "Branding project over oma's door Maura Verkleij"
+            },
+            images: [
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma0.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij",
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma1.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma2.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma3.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma4.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma5.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma6.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma7.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma8.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-ode-aan-de-oma9.jpg",
+                    alt: "Branding project over oma's door Maura Verkleij"
+                },
+            ]
+        },
+        {
+            id: "JOEP-JOEP-JOEP",
+            title: "JOEPJOEPJOEP",
+            content: "De collecties van JOEPJOEPJOEP veroorzaken enthousiasme. Joep Thijssen zijn ontwerpen staan bekend om de kleurrijke slow fashion items. Ik ben van mening dat zijn ontwerpen een visueel podium verdienen. Op dit moment werk ik aan een nieuwe visuele identiteit voor JOEPJOEPJOEP. Dit project valt onder het kopje ‘under construction’.",
+            image: {
+                src: root + "img/MauraVerkleij-Portfolio-joepjoepjoep0.jpg",
+                alt: "Under construction project JOEPJOEPJOEP"
+            },
+            images: [
+                {
+                    src: root + "img/MauraVerkleij-Portfolio-joepjoepjoep0.jpg",
+                    alt: "Under construction project JOEPJOEPJOEP",
+                },
+
+            ]
+        },
+
     ]
 };
 

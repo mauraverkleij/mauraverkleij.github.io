@@ -184,3 +184,14 @@ a, a:visited, a:hover, a:active {
   text-decoration: underline;
 }
 
+@media (max-width: 1260px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 958px) {
+  .project .right, .project left {
+    width: 100%;
+  }
+}
