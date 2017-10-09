@@ -19,23 +19,22 @@
 }
 
 * {
-  /*cursor: url('../../resources/img/bang-small.png'), auto;*/
 }
 
 
 * {
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'gothamregular', sans-serif;
 }
 
 p {
   font-family: 'texgyreheros', sans-serif;
-  font-size: 35px;
+  font-size: 22px;
   margin-top: 0;
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 50px;
   font-weight: normal;
   margin: 0 0 50px 0;
 }
@@ -57,9 +56,13 @@ ul {
 /*project item*/
 ul li {
   font-family: 'gothamregular', sans-serif;
-  font-size: 70px;
-  line-height: 120px;
-  cursor: pointer;
+  font-size: 50px;
+  line-height: 100px;
+  cursor: url('../../resources/img/bang-small.png'), auto;
+}
+
+a {
+  cursor: url('../../resources/img/bang-small.png'), auto;
 }
 
 ul li:hover {
@@ -151,18 +154,18 @@ a, a:visited, a:hover, a:active {
   bottom:0;
   left: 0;
   right:0;
-  font-size: 30px;
+  font-size: 20px;
   padding: 40px 0;
 }
 
 .menu-item {
   float: right;
   margin-right: 40px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .menu-item:hover {
-    cursor: pointer;
+  cursor: url('../../resources/img/bang-small.png'), auto;
 }
 
 .menu-item-active {
@@ -172,11 +175,12 @@ a, a:visited, a:hover, a:active {
 .project-nav {
   width: 351px;
   float:right;
+  margin-bottom: 53px;
 }
 
 .nav-item {
   margin-top: 10px;
-  cursor: pointer;
+  cursor: url('../../resources/img/bang-small.png'), auto;
   text-decoration: underline;
 }
 
