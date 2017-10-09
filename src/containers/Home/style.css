@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'gothamregular';
+  src: url('../../resources/fonts/gotham-regular-webfont.woff2') format('woff2'),
+  url('../../resources/fonts/gotham-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  text-align: center;
+}
+
+* {
+  /*cursor: url('../../resources/img/bang-small.png'), auto;*/
+}
+
+.background-container{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -100;
+  text-align: center;
+}
+
+.background-container img {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/*projects*/
+ul {
+  list-style-type: none;
+}
+
+/*project item*/
+ul li {
+  font-family: 'gotham', sans-serif;
+  font-size: 90px;
+  line-height: 130px;
+  cursor: pointer;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+.outer {
+  display: table;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.projects {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.menu {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.menu-item {
+  float: right;
+  margin-right: 40px;
+}
+
+.menu-item-active {
+    text-decoration: underline;
+}
+
