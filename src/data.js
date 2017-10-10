@@ -6,7 +6,7 @@ const data = {
         city: "Rotterdam",
         email: "info@mauraverkleij.nl",
         tel: "+31 6 52882663",
-        bio: "Onderzoek doen naar een bepaald onderwerp, het ontwerpen van een bijpassende identiteit en vervolgens de interactie aangaan met de doelgroep is mijn dagelijkse bezigheid. Graphic Design en Advertising is voor mij de ideale combinatie. Naast mijn studie flurt ik er op los met mijn bedrijfje FLURT waar ik ook de combinatie van concept ontwikkelen en een visuele identiteit ontwerpen op een humoristische manier combineer.",
+        bio: "Aangenaam! Maura Malena, met een zwak voor kneuterige knallers, oma’s, aquajoggen en de kleur geel. \n Op dit moment ben ik voor mijn derde grafisch jaar, op de Willem de Kooning in Rotterdam, te vinden. Met mijn focus op visuele, veelzijdige & concrete communicatie. Daarnaast ben ik fanatiek flurter en freelancer. Ik flurt er op los bij  FLURT. En pas mijn grafische skills toe als freelancer for the cost. Aardig wat alliteratie, toch? Dat blijft beter hangen. \n Nieuwsgierig of enthousiast? Dan is het tijd voor een kopje koffie."
     },
     projects: [
         {
@@ -82,7 +82,7 @@ const data = {
         {
             id: "FLURT",
             title: "FLURT",
-            content: "In de trein, tijdens het uitgaan en op straat. Iedereen zit tegenwoordig op z’n telefoon. Daarom zijn we twee jaar geleden FLURT gestart. Met de welbekende openingszinnen proberen we op een simpele en humoristische manier de interactie terug te brengen. /n Toen het FLURT balletje ging rollen leerde ik alle ins en outs van het ondernemerschap.",
+            content: "In de trein, tijdens het uitgaan en op straat. Iedereen zit tegenwoordig op z’n telefoon. Daarom zijn we twee jaar geleden FLURT gestart. Met de welbekende openingszinnen proberen we op een simpele en humoristische manier de interactie terug te brengen. \n Toen het FLURT balletje ging rollen leerde ik alle ins en outs van het ondernemerschap.",
             image: {
                 src: root + "img/Maura-Verkleij-Portfolio-FLURT0.jpg",
                 alt: "Meer geflurt in de trein, tijdens het uitgaan en op straat."
@@ -244,7 +244,47 @@ const data = {
 
             ]
         },
-
+        {
+            id: "kneuterige-knallers",
+            title: "Kneuterige knallers",
+            content: "Opgroeiend in het pittoreske Reeuwijk is mijn fascinatie voor kneuterigheid ontstaan. Ik gebruik vaak onderwerpen in deze categorie als startpunt van mijn ontwerp proces. Daarom verzamel ik graag projecten welke op kneuterig gebied knallen. Van ‘Luchtbuks Ria’ tot en met de ‘Scootrangers’… Gaat dat zien!",
+            image: {
+                src: root + "img/4-Kneuterige-knaller-comfortzone.jpg",
+                alt: "Grafisch poster ontwerp door Maura Verkleij voor de North Sea Jazz Poster contest"
+            },
+            images: [
+                {
+                    src: root + "img/1-Kneuterige-knaller-scootrangers.jpg",
+                    alt: "Foto serie over scootrangers",
+                    content:"Scootrangers. Peter de Krom.",
+                },
+                {
+                    src: root + "img/2-Kneuterige-knaller-kaboutersenadelaars.jpg",
+                    alt: "Foto serie over kneuterige Hollandse tuinen.",
+                    content:"Kabouters & Adelaars. Joost Leek & Willem de Kam.",
+                },
+                {
+                    src: root + "img/3-Kneuterige-knaller-luchtbuksria.jpg",
+                    alt: "Foto serie over Luchtbuks Ria.",
+                    content:"Luchtbuks Ria. Peter de Krom.",
+                },
+                {
+                    src: root + "img/4-Kneuterige-knaller-comfortzone.jpg",
+                    alt: "Foto serie over mensen op het strand.",
+                    content:"Comfort Zone. Tadao Cern.",
+                },
+                {
+                    src: root + "img/5-Kneuterige-knaller-olifantenpaadjes.jpg",
+                    alt: "Foto serie over olifantenpaadjes.",
+                    content:"Olifantenpaadjes (Rotterdam - Terreinwinst: 6 meter). Jan Dirk van der Burg.",
+                },
+                {
+                    src: root + "img/6-Kneuterige-knaller-boredcouples.jpg",
+                    alt: "Foto serie over bored couples.",
+                    content:"Bored couples. Martin Parr..",
+                },
+            ]
+        },
     ]
 };
 

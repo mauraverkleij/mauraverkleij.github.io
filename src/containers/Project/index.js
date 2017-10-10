@@ -100,13 +100,13 @@ export default class Project extends Component {
                             <div className="project-container">
                             <h1>{this.state.project.title}</h1>
                             {this.state.project.content.split("\n").map(function(contentpart, index) {
+                                console.log(contentpart);
                                 return (
                                     <span key={index}>
                                         <p>{contentpart}</p>
                                     </span>
                                 )
                             })}
-                            <p>{this.state.project.content}</p>
                         </div>
                     </div>
                     <div className="right">

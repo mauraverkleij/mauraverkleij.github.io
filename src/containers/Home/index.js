@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './style.css';
 import data from '../../data';
 import { Link } from 'react-router'
@@ -19,12 +18,6 @@ class App extends Component {
                 selectedProject
             })
         }
-    }
-
-    _onClick(selectedProject){
-        this.setState({
-            selectedProject
-        })
     }
 
     _renderProjects(){
