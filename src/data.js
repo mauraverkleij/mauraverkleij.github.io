@@ -6,7 +6,7 @@ const data = {
         city: "Rotterdam",
         email: "info@mauraverkleij.nl",
         tel: "+31 6 52882663",
-        bio: "Aangenaam! Maura Malena, met een zwak voor kneuterige knallers, oma’s, aquajoggen en de kleur geel. \n Op dit moment ben ik voor mijn derde grafisch jaar, op de Willem de Kooning in Rotterdam, te vinden. Met mijn focus op visuele, veelzijdige & concrete communicatie. Daarnaast ben ik fanatiek flurter en freelancer. Ik flurt er op los bij  FLURT. En pas mijn grafische skills toe als freelancer for the cost. Aardig wat alliteratie, toch? Dat blijft beter hangen. \n Nieuwsgierig of enthousiast? Dan is het tijd voor een kopje koffie."
+        bio: "Aangenaam! Maura Malena, met een zwak voor kneuterige knallers, oma’s, aquajoggen en de kleur geel. \n Op dit moment ben ik voor mijn derde grafisch jaar op de Willem de Kooning in Rotterdam te vinden. Met mijn focus op visuele, veelzijdige & concrete communicatie. Daarnaast ben ik fanatiek flurter en freelancer. Ik flurt er op los bij  FLURT. En pas mijn grafische skills toe als freelancer for the cost. Aardig wat alliteratie, toch? Dat blijft beter hangen. \n Nieuwsgierig of enthousiast? Dan is het tijd voor een kopje koffie."
     },
     projects: [
         {
